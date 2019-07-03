@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">AZM (Amil Zakat Muhajirin)</string>
+    <string name="no_telepon">No. Telepon</string>
+    <string name="daftar"><u>Daftar</u></string>
+
+    <string-array name="jenis_zakat">
+        <item>Beras</item>
+        <item>Uang</item>
+    </string-array>
+
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#38ef7d</color>
+    <color name="colorPrimaryDark">#11998e</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="colorPrimaryLight">#64EE98</color>
+    <color name="colorPrimaryDarkLight">#16BBAF</color>
+    <color name="spots_dialog_color">@color/colorPrimaryDark</color>
+    <color name="colorGreyDark">#E0E0E0</color>
+    <color name="colorWhiteTransparent">#5EFFFFFF</color>
+</resources>
