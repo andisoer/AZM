@@ -2,11 +2,11 @@ package com.jminovasi.zakat.Util;
 
 public class Config {
 
-    public static String URL_register = "https://sorjservice.online/azm/register.php";
-    public static String URL_login = "https://sorjservice.online/azm/login.php";
-    public static String URL_addZakat = "https://sorjservice.online/azm/tambahzakat.php";
-    public static String URL_rekapZakat = "https://sorjservice.online/azm/select_rekapzakat.php";
-    public static String URL_jumlahZakat = "https://sorjservice.online/azm/select_jumlahzakat.php";
+    public static String URL_register = "https://andisoer.online/azm/register.php";
+    public static String URL_login = "https://andisoer.online/azm/login.php";
+    public static String URL_addZakat = "https://andisoer.online/azm/tambahzakat.php";
+    public static String URL_rekapZakat = "https://andisoer.online/azm/select_rekapzakat.php";
+    public static String URL_jumlahZakat = "https://andisoer.online/azm/select_jumlahzakat.php";
     public static String TAG_error = "error";
     public static String TAG_message = "message";
     public static String TAG_id = "id";
